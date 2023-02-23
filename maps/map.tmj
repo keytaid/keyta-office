@@ -1190,7 +1190,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"https:\/\/play.office.altechomega.com\/"
+                         "value":""
                         }, 
                         {
                          "name":"description",
